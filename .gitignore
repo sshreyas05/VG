@@ -1,0 +1,10 @@
+__pycache__/
+*.mp4
+*.png
+*.jpeg
+*.jpg
+*.wav
+*.zip
+outputs/
+node_modules/
+.env

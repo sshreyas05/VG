@@ -1,0 +1,13 @@
+[OK] START_NOISE_IMG: C:\Users\Admin\OneDrive\Desktop\WORK\WhatsApp Image 2026-04-05 at 22.46.57.jpeg
+[OK] FFMPEG_BIN_PATH: C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\imageio_ffmpeg\binaries
+[OK] flux_client_path: C:\Users\Admin\OneDrive\Desktop\WORK\flux_client.py
+[OK] wan_client_path: C:\Users\Admin\OneDrive\Desktop\WORK\wan_client.py
+[OK] audio_client_path: C:\Users\Admin\OneDrive\Desktop\WORK\client.py
+[OK] rife_repo: C:\Users\Admin\OneDrive\Desktop\WORK\arXiv2020-RIFE
+[OK] imageio_ffmpeg_package: C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\imageio_ffmpeg
+
+Contents of imageio_ffmpeg binaries folder:
+  ffmpeg-win-x86_64-v7.1.exe
+  README.md
+  __init__.py
+  __pycache__
