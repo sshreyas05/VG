@@ -1,0 +1,9 @@
+requests
+opencv-python
+imageio-ffmpeg
+modal
+ollama
+fastapi
+uvicorn
+httpx
+pydantic
